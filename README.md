@@ -136,7 +136,7 @@ curl http://localhost:8642/v1/chat/completions \
 
 > **Note:** The API server is optional. If you only use Hermes via Telegram, Discord, or the Dashboard, you don't need to enable it.
 
-### Importen commands
+### important commands
 
 ```
 docker exec -it hermes_agent supervisorctl status
